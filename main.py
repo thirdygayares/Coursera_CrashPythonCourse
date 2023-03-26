@@ -14,3 +14,16 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+x = 1
+
+if(x==1):
+    print("Yes")
+else:
+    print("no")
+
+
+def somethingMethod(n):
+    return n * 2
+
+print(somethingMethod(2))
