@@ -4,8 +4,8 @@ print(new_message)
 
 
 pets = "Cats & Dogs"
-pets.index("&")
-pets.index("C")
+print(pets.index("&"))
+print(pets.index("C"))
 pets.index("Dog")
 
 # python firts get tje he one first
